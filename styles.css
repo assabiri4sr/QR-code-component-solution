@@ -1,0 +1,31 @@
+body {
+    background-color: #D6E2F0;
+    text-align: center;
+}
+.main-card {
+    background-color: white;
+    display:inline-block  ;
+    margin: auto;
+    width: 230px;
+    padding: 10px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+#img {
+    width: 99%;
+    border-radius: 15px;
+}
+.top {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: large;
+    color: #1F3251;
+}
+.bottom {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #7B879D;
+    
+}
